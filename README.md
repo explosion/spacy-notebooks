@@ -14,7 +14,7 @@ jupyter notebook
 
 | Notebook | Content by | Notebook by | Description |
 | --- | --- | --- | --- | --- |
-| [`lightning_tour.ipynb`](lightning_tour.ipynb) | @explosion | @bhargavvader | An overview of spaCy's functionality and its usage.
+| [`lightning_tour`](lightning_tour.ipynb) | @explosion | @bhargavvader | An overview of spaCy's functionality and its usage.
 
 ## Contribute a notebook
 
