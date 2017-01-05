@@ -15,6 +15,7 @@ jupyter notebook
 | Notebook | Content by | Notebook by | Description |
 | --- | --- | --- | --- | --- |
 | [`lightning_tour`](lightning_tour.ipynb) | @explosion | @bhargavvader | An overview of spaCy's functionality and its usage.
+| [`pycon_nlp`](pycon_nlp) | @CytoraTech[https://github.com/cytora] | @CytoraTech[https://github.com/cytora/pycon-nlp-in-10-lines] | spaCy introduction, and using spaCy to analyse Pride and Prejudice and the RAND dataset.
 
 ## Contribute a notebook
 
