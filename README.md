@@ -21,4 +21,4 @@ jupyter notebook
 
 ## Contribute a notebook
 
-Have you created a Jupyter notebook featuring spaCy, or have you converted one of the existing [examples](https://github.com/explosion/spaCy/tree/master/examples) or [tutorials](https://spacy.io/docs/usage)? We always appreciate [pull requests](https://github.com/explosion/spacy-notebooks) to this repository! 👍
+Have you created a Jupyter notebook featuring spaCy, or have you converted one of the existing [examples](https://github.com/explosion/spaCy/tree/master/examples) or [tutorials](https://spacy.io/docs/usage)? We always appreciate [pull requests](https://github.com/explosion/spacy-notebooks) to this repository! 👍 Please keep in mind that this repository is MIT-licensed, so we'll only be able to publish notebooks that are available under MIT or a more permissive license.
