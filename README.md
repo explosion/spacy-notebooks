@@ -13,7 +13,7 @@ jupyter notebook
 ## Table of contents
 
 | Notebook | Content by | Notebook by | Description |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | [`lightning_tour`](notebooks/lightning_tour.ipynb) | [@explosion](https://github.com/explosion) | [@bhargavvader](https://github.com/bhargavvader) | An overview of spaCy's functionality and its usage.
 | [`pycon_nlp`](notebooks/conference_notebooks/pycon_nlp) | [@CytoraTech](https://github.com/cytora) | [@CytoraTech](https://github.com/cytora/pycon-nlp-in-10-lines) | spaCy introduction, and using spaCy to analyse Pride and Prejudice and the RAND dataset. Presented at PyCon UK 2016.
 | [`pydata_nlp`](notebooks/conference_notebooks/modern_nlp_in_python.ipynb) | [@skipgram](https://github.com/skipgram) | [@skipgram](https://github.com/skipgram/modern-nlp-in-python) | Introduction to NLP in python using spaCy and gensim. Presented at PyData DC 2016.
